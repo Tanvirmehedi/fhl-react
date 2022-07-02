@@ -2,4 +2,4 @@
 
 ### Description
 
-[^note]: This Design is all about real-estate React Web-site call Fresh Home Limited.
+This Design is all about real-estate React Web-site call Fresh Home Limited.
